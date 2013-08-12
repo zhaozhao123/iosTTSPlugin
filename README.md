@@ -63,7 +63,6 @@ This plugin comes from one of my project which needs to implement a local TTS fu
 
 You can also parse text to the function used in the js file, which can make your app read different texts. I didn't implement interfaces that adjust speed, pitch and so on. If you are interested in them, please try to realize them followed the instructions provided by OpenEars. I can't guarantee I have enough time to implement them in the future versions cause I'm looking for my new job now. This plugin is built on the free OpenEears platform, so the voice sounds very robotic. If you want to make the voice sound like human, please refer to this non-free one--NeatSpeech: Better Voices for OpenEars.
 
-If I have time to update it I'll do it. And if you have problem, you can reach me at **John: zhaozhao123 at gmail.com**
 
 ## Acknowledgment
 
