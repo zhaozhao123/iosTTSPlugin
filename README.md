@@ -53,9 +53,9 @@ Highly-accurate large-vocabulary recognition (that is, trying to recognize any w
 
 5) Specify the plugin as a <feature> tag in your Cordova-iOS application's project's config.xml file.
 
-<feature name="OpenEarsTTS">
-        <param name="ios-package" value="OpenEars" />
- </feature>
+	<feature name="OpenEarsTTS">
+	        <param name="ios-package" value="OpenEars" />
+	 </feature>
 
 6) Run it.
 
