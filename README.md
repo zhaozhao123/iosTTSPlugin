@@ -33,7 +33,7 @@ This plugin comes from one of my project which needs to implement a local TTS fu
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 	THE SOFTWARE.
 
-## INTRODUCTION OF OPENEARS
+## Introduction of OpenEars
 
 OpenEars is an shared-source iOS framework for iPhone voice recognition and speech synthesis (TTS). It lets you easily implement round-trip English language speech recognition and text-to-speech on the iPhone and iPad and uses the open source CMU Pocketsphinx, CMU Flite, and CMUCLMTK libraries, and it is free to use in an iPhone or iPad app. It is the most popular offline framework for speech recognition and speech synthesis on iOS and has been featured in development books such as O'Reilly's Basic Sensors in iOS by Alasdair Allan and Cocos2d for iPhone 1 Game Development Cookbook by Nathan Burba.
 
