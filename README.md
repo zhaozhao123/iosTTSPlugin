@@ -57,7 +57,7 @@ Highly-accurate large-vocabulary recognition (that is, trying to recognize any w
 	        <param name="ios-package" value="OpenEars" />
 	 </feature>
 
-6) Run it.
+6) If you can't hear the voice in your simulator, please connect your physical device and run again. Sometimes, it doesn't work in my simulator.
 
 ## Notes
 
