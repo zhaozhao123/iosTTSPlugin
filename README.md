@@ -35,11 +35,11 @@ This plugin comes from one of my project which needs to implement a local TTS fu
 
 ## Introduction of OpenEars
 
-Please refer to [OpenEars](http://www.politepix.com/openears/].
+Please refer to [OpenEars](http://www.politepix.com/openears/).
 
 ## Manual Installation for iOS
 
-1) Go to OpenEears website to download the frameworks.[[OpenEars](http://www.politepix.com/openears/]. Drag folder "Frameworks" into your app project in Xcode (after you unzip the package downloaded from the website, you will see this folder). Make absolutely sure that in the add dialog "Create groups for any added folders" is selected and NOT "Create folder references for any added folders" because the wrong setting here will prevent your app from working.
+1) Go to OpenEears website to download the frameworks [OpenEars](http://www.politepix.com/openears/). Drag folder "Frameworks" into your app project in Xcode (after you unzip the package downloaded from the website, you will see this folder). Make absolutely sure that in the add dialog "Create groups for any added folders" is selected and NOT "Create folder references for any added folders" because the wrong setting here will prevent your app from working.
 
 2) Add the iOS frameworks AudioToolbox and AVFoundation to your app. In your Xcode, click your project and look for "Linked Frameworks and Libraries" in the "Summary" tab. Click "+" then find these two libraries mentioned above.
 
